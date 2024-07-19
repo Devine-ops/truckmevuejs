@@ -296,7 +296,7 @@ footer img{
     flex-direction: column;
     background-color: #f05123;
     position: absolute;
-    top: 60px;
+    top: 80px;
     right: 0;
     width: 100%;
     text-align: center;
@@ -341,9 +341,9 @@ footer img{
 }
 
 .saiba-mais.show {
-    max-height: 1000px; /* Ajuste conforme o conteúdo */
+    max-height: 1000px; 
     opacity: 1;
-    transition: max-height 5s ease-in, opacity 1s ease-in;
+    transition: max-height 1s ease-in, opacity 1s ease-in;
     
 }
 
